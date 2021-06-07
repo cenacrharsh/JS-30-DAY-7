@@ -2,7 +2,7 @@
 
 [demo](https://cenacrharsh.github.io/JS-30-DAY-7/)
 
-![ss.png](./Screenshot (62).png)
+![ss.png](./ss.png)
 
 ### Lessons Learned:
 
